@@ -1,5 +1,5 @@
 # SUSBurner
 Suspiciously small StealthBurner. Probably for ants.
 
-![image](https://github.com/user-attachments/assets/b42065b2-d25a-458d-a216-5bf13807b377)
+![image](https://github.com/user-attachments/assets/03240c16-b57c-4af5-b310-43e0403fe173)
 
