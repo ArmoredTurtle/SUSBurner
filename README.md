@@ -39,7 +39,7 @@ This is very much a work in progress toolhead. Don't complain when thing inevita
 | Loctite or Vibratite | 1 | Loctite Blue 242 or Vibra-TITE VC-3 | [Amazon Loctite](https://amzn.to/4hO0Fjt) <br/> [Amazon Vibratite](https://amzn.to/4aRcWkO) |
 | 5.5mm Ball Bearing | 1 | | [Amazon](https://amzn.to/4hMpwnG) | 
 | #4 Hobby Blade | 1 | These will need to be trimmed to the appropriate length after purchase, about 26mm | [Amazon #4](https://amzn.to/3EvpYIB) |
-| ECAS04 Fitting | 1 | | [Amazon] (https://amzn.to/4jO8Eih) <br/> [KB-3D](https://kb-3d.com/store/inserts-fasteners-adhesives/707-push-fit-embedded-bowden-fitting-coupler-175-ecas04-1667064368065.html) |
+| ECAS04 Fitting | 1 | | [Amazon](https://amzn.to/4jO8Eih) <br/> [KB-3D](https://kb-3d.com/store/inserts-fasteners-adhesives/707-push-fit-embedded-bowden-fitting-coupler-175-ecas04-1667064368065.html) |
 | 4x0.5x15 Compression Spring | 1 | | [Amazon](https://amzn.to/4jSgI1p) |
 | M3 Threaded Heatset insert | 23 | 'Voron Spec' - M3x4x5 | [Amazon](https://amzn.to/415ZRRr) |
 | M2x10 Self Tapping Screw | 1 | | |
