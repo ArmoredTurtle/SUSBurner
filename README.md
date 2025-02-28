@@ -43,7 +43,7 @@ This is very much a work in progress toolhead. Don't complain when thing inevita
 | 4x0.5x15 Compression Spring | 1 | | [Amazon](https://amzn.to/4jSgI1p) |
 | M3 Threaded Heatset insert | 23 | 'Voron Spec' - M3x4x5 | [Amazon](https://amzn.to/415ZRRr) |
 | M2x10 Self Tapping Screw | 1 | | |
-| M2x8 SHCS | 1 | | |
+| M2x16 SHCS | 1 | | |
 | M3 Hex Nut | 4 | | |
 | M3x6 BHCS | 1 | | |
 | M3x10 BHCS | 1 | | |
