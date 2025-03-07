@@ -2,7 +2,7 @@
 
 Suspiciously small StealthBurner. Probably for ants.
 
-![susB (6)](https://github.com/user-attachments/assets/7c27a8b1-91b4-4df3-b5e6-e4934c9eb12b)
+![susB (7)](https://github.com/user-attachments/assets/b60f8e9c-bf1f-48be-b630-7ca737befefd)
 
 ### Work in Progress
 
