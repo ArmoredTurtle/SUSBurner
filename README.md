@@ -10,14 +10,15 @@ This is very much a work in progress toolhead. Don't complain when thing inevita
 
 - 80% scaled Stealthburner that fit's the tiny Vorons like the V0 (more information below)
 - 4020 for Part-cooling (like from the Afterburner) and 3010 for Hotend-cooling
-- CW2 extruder with adapted internals to for the small formfactor
+- CW2 extruder with adapted internals to for the small formfactor _now legacy_
+- SUS-HGX extruder is not the suggested extruder
 - Full size nozzle LEDs - same as for his big brother
 - Full size logo LED
 - Filament cutter based on standard FilamATrix/Filametrix cutters
 - Pre-extruder sensor
 
 ### Current supported Hotends
-*All hotends are currently in testing *  
+*All hotends are currently in testing*  
 - "TZ Rapido"
 - Rapido
 - Rapido UHF
@@ -40,7 +41,7 @@ This is very much a work in progress toolhead. Don't complain when thing inevita
 | 5.5mm Ball Bearing | 1 | | [Amazon](https://amzn.to/4hMpwnG) | 
 | #4 Hobby Blade | 1 | These will need to be trimmed to the appropriate length after purchase, about 26mm | [Amazon #4](https://amzn.to/3EvpYIB) |
 | ECAS04 Fitting | 1 | | [Amazon](https://amzn.to/4jO8Eih) <br/> [KB-3D](https://kb-3d.com/store/inserts-fasteners-adhesives/707-push-fit-embedded-bowden-fitting-coupler-175-ecas04-1667064368065.html) |
-| 4x0.5x15 Compression Spring | 1 | | [Amazon](https://amzn.to/4jSgI1p) |
+| 4x0.5x25 Compression Spring | 1 | | [Amazon](https://a.co/d/dXcP1B4) |
 | M3 Threaded Heatset insert | 34 | 'Voron Spec' - M3x4x5 | [Amazon](https://amzn.to/415ZRRr) |
 | M2x10 Self Tapping Screw | 3 | | |
 | M2x16 SHCS | 1 | | |
