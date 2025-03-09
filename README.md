@@ -11,7 +11,7 @@ This is very much a work in progress toolhead. Don't complain when thing inevita
 - 80% scaled Stealthburner that fit's the tiny Vorons like the V0 (more information below)
 - 4020 for Part-cooling (like from the Afterburner) and 3010 for Hotend-cooling
 - CW2 extruder with adapted internals to for the small formfactor _now legacy_
-- SUS-HGX extruder is not the suggested extruder
+- SUS-HGX extruder is now the suggested extruder
 - Full size nozzle LEDs - same as for his big brother
 - Full size logo LED
 - Filament cutter based on standard FilamATrix/Filametrix cutters
