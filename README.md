@@ -24,6 +24,8 @@ This is very much a work in progress toolhead. Don't complain when thing inevita
 - Rapido UHF
 - Dragon UHF
 - Voron Revo
+### UHF SUSBurner vs UHF StealthBurner
+![SUSBurner](https://github.com/user-attachments/assets/35f1dd0f-1280-4123-945f-522dbe117aec)
 
 ## Bill of Materials
 
