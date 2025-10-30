@@ -25,7 +25,7 @@ This is very much a work in progress toolhead. Don't complain when thing inevita
 - Dragon UHF
 - Voron Revo
 ### UHF SUSBurner vs UHF StealthBurner
-![SUSBurner](https://github.com/user-attachments/assets/35f1dd0f-1280-4123-945f-522dbe117aec)
+<img src="https://github.com/ArmoredTurtle/SUSBurner/blob/main/images/sus_vs_sb.png" width=90%>
 
 ## Bill of Materials
 
