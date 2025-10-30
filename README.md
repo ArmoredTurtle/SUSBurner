@@ -2,7 +2,7 @@
 
 Suspiciously small StealthBurner. Probably for ants.
 
-![susB (7)](https://github.com/user-attachments/assets/b60f8e9c-bf1f-48be-b630-7ca737befefd)
+<img src="https://github.com/ArmoredTurtle/SUSBurner/blob/main/images/SUS_front_view.PNG" width=40%>
 
 ### Work in Progress
 
