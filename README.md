@@ -6,8 +6,6 @@ Suspiciously small StealthBurner. Probably for ants.
 
 ### Work in Progress
 
-This is very much a work in progress toolhead. Don't complain when thing inevitably change and are no longer compatible.
-
 - 80% scaled Stealthburner that fit's the tiny Vorons like the V0 (more information below)
 - 4020 for Part-cooling (like from the Afterburner) and 3010 for Hotend-cooling
 - CW2 extruder with adapted internals to for the small formfactor _now legacy_
@@ -54,8 +52,8 @@ This is very much a work in progress toolhead. Don't complain when thing inevita
 | M3x8 SHCS | 8 | | |
 | M3x10 SHCS | 2 | | |
 | M3x12 SHCS | 3 | | |
-| M3x18 SHCS | 2 | | |
-| M3x20 SHCS | 3 | | |
+| M3x18 SHCS | 4 | | |
+| M3x20 SHCS | 1 | | |
 | M3x35 SHCS | 2 | | |
 
 ### Acknowledgements
